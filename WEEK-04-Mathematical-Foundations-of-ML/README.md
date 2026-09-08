@@ -1,4 +1,6 @@
-# Lesson Outline
+# WEEK 4 | Mathematical Foundations of Machine Learning
+
+## Lesson Outline
 - Why Mathematics Matters in Machine Learning
 - Scalars, Vectors, and Matrices
 - Representing datasets mathematically
