@@ -40,3 +40,20 @@ By the end of this lesson, participants should be able to:
 - Describe the relationship between inputs, model parameters and outputs.
 - Explain the concepts of prediction error, loss and optimization.
 - Describe, intuitively, how a machine learning model learns from data.
+
+## Week 4 Assignment | Exploring the Mathematics of Your Data
+Using the dataset you imported in Week 3, create a new notebook and:
+- Select 2–4 numerical variables relevant to your project.
+- For each variable, calculate the mean, median, range, variance, and standard deviation using Python.
+- Select two variables and calculate their covariance and correlation.
+- Create one simple plot showing the relationship between the two variables.
+
+In a short Markdown cell, explain:
+- What do the statistics tell you about your data?
+- What does the correlation tell you about the relationship between the two variables?
+- Does correlation necessarily mean that one variable causes the other?
+
+Choose one variable as an input and another as an output, and write a simple mathematical expression showing the idea of:
+- Input → Function/Model → Output
+
+Add the notebook to your course-project GitHub repository and submit the notebook link on Google Classroom.
