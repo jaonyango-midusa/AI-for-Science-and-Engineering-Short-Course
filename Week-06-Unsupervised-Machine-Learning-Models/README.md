@@ -1,4 +1,5 @@
-# Lesson Outline 
+# Week 6 | Unsupervised Machine Learning Models
+## Lesson Outline 
 In this lesson, we will talk about:
 - Introduction to Unsupervised Learning
 - Clustering
