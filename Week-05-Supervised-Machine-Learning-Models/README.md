@@ -24,11 +24,11 @@ By the end of this lesson, participants should be able to:
 
 ## Week 5 Assignment | Building Your First Supervised Machine Learning Model
 Using your project dataset, or another appropriate dataset where suitable:
-- Identify your and the you will use to predict it.
-- Determine whether your problem is a problem and explain why.
-- Split the dataset into .
-- Select and train .
+- Identify your target/output and the features you will use to predict it.
+- Determine whether your problem is a regression or classification problem and explain why.
+- Split the dataset into training and test sets.
+- Select and train two appropriate supervised learning models.
 - Use both models to make predictions on the test data.
-- Evaluate each model using covered in class.
+- Evaluate each model using appropriate performance metrics covered in class.
 - Compare the performance of the two models and briefly discuss your results.
-- Save the completed notebook in your and submit the notebook link on Google Classroom.  
+- Save the completed notebook in your course-project GitHub repository and submit the notebook link on Google Classroom.  
