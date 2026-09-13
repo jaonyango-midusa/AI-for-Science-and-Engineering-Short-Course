@@ -32,7 +32,7 @@ Using a short piece of text related to your project or discipline:
 4. Use a generative AI/LLM to perform one useful task with the text, such as summarization, information extraction, question answering, or explanation.
 5. Try two different prompts for the same task and compare the responses.
 6. Briefly discuss:
-- How did changing the prompt affect the output?
-- What does the similarity result tell you about the two texts?
-- What limitations or errors did you observe in the generated response?
+  - How did changing the prompt affect the output?
+  - What does the similarity result tell you about the two texts?
+  - What limitations or errors did you observe in the generated response?
 7. Save the notebook in your course-project GitHub repository and submit the notebook link on Google Classroom.
