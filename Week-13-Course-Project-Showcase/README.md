@@ -44,3 +44,9 @@ The presentation should cover:
 **Total: 20 minutes per project**
 
 The showcase is an opportunity to share your learning and what you have built during the course. It is not an examination, and projects do not need to be fully developed or deployment-ready.
+
+## Apply to Present
+
+Participants interested in presenting their project should complete the application form:
+
+[Apply to Present Your Project]([https://docs.google.com/forms/d/e/1FAIpQLSdOcvc6af3mB25AY1vJbPaNyRww4jDjBWaWJ2tyBJJd5rWjVw/viewform?usp=header])
