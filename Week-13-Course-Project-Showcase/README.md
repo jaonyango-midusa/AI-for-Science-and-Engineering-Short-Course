@@ -47,6 +47,6 @@ The showcase is an opportunity to share your learning and what you have built du
 
 ## Apply to Present
 
-Participants interested in presenting their project should complete the application form:
+Participants interested in presenting their project should complete the application form: https://docs.google.com/forms/d/e/1FAIpQLSdOcvc6af3mB25AY1vJbPaNyRww4jDjBWaWJ2tyBJJd5rWjVw/viewform?usp=header
 
 [Apply to Present Your Project]([https://docs.google.com/forms/d/e/1FAIpQLSdOcvc6af3mB25AY1vJbPaNyRww4jDjBWaWJ2tyBJJd5rWjVw/viewform?usp=header])
