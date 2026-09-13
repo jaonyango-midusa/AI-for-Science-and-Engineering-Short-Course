@@ -26,3 +26,16 @@ By the end of the lesson, participants should be able to:
 - Explain how computational jobs are submitted and managed on a cluster.
 - Describe how HPC can support larger and more computationally demanding ML workflows.
 - Apply basic principles of efficient and reproducible HPC computing.
+
+## Week 11 Assignment | Running a Machine Learning Job on HPC
+Using the HPC environment introduced during the KENET session:
+- Access the HPC system and set up your working environment.
+- Upload or create a simple Python/ML program.
+- Prepare and submit the program as an HPC job using the job scheduler demonstrated during the session.
+- Check the status of your job and retrieve the output when it is completed.
+- Include evidence of the successful job execution (e.g., job output or screenshots).
+- Briefly explain:
+  1. What computing resources were requested.
+  2. Why those resources were appropriate for the job.
+  3. How running a job on HPC differs from running the same code in Colab or on your computer.
+- Add the relevant script/notebook, job file and brief documentation to your course-project GitHub repository, and submit the link on Google Classroom.
