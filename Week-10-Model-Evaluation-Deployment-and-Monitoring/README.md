@@ -29,6 +29,6 @@ Using a machine learning model developed for your project:
 - Save the trained model and demonstrate that it can be loaded and used to make a prediction on new data.
 - Briefly describe:
   1. How the model could eventually be deployed or used in practice.
-2. What would need to be monitored after deployment.
-3. One limitation or risk that should be considered.
+  2. What would need to be monitored after deployment.
+  3. One limitation or risk that should be considered.
 - Save the notebook in your course-project GitHub repository and submit the notebook link on Google Classroom.
