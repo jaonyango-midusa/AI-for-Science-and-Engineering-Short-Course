@@ -23,3 +23,4 @@ This is a 12-week online course that provides a practical introduction to AI and
 10. Model Evaluation, Deployment & Monitoring
 11. High-Performance Computing
 12. Ethics & Responsible AI
+13. Project Presentations
