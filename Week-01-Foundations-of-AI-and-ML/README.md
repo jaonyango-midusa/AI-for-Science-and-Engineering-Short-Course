@@ -12,7 +12,6 @@ In this lesson, we will talk about:
 - Types of Machine Learning
 - Scientific & Engineering Applications of AI/ML
 - From Scientific Problem to ML Problem
-- Ethics in AI
 
 ## Expected Learning Outcomes
 By the end of this lesson, participants should be able to:
