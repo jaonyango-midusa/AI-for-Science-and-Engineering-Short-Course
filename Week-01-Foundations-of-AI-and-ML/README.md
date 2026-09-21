@@ -30,4 +30,4 @@ This is the first stage of the course project that you will develop progressivel
 Complete the Week 1 project task using the Google form on this link: 
 https://docs.google.com/forms/d/e/1FAIpQLSfk0rZB39d04KA1Q8kzdGitNcQ27UPBgqSbG05coZaA9xN-zA/viewform?usp=header
 
-**Important:** After submitting the Google Form, return to Google Classroom and click “Turn in” to complete your assignment submission.
+**Important:** After submitting the Google Form, return to Google Classroom Week 1 Assignment and select “Mark as Done” to complete your assignment submission.
