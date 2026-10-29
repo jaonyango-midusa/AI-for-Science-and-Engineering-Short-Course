@@ -25,14 +25,18 @@ By the end of the lesson, participants should be able to:
 - Discuss limitations and responsible use of generative AI.
 
 ## Week 7 Assignment | Exploring Generative AI and Language Models
-Using a short piece of text related to your project or discipline:
-1. Tokenize the text using an appropriate Python library or pretrained tokenizer and display the resulting tokens.
-2. Use a pretrained model or embedding model from Hugging Face to generate an embedding for the text.
-3. Select a second short piece of related text and use the embeddings to determine their similarity.
-4. Use a generative AI/LLM to perform one useful task with the text, such as summarization, information extraction, question answering, or explanation.
-5. Try two different prompts for the same task and compare the responses.
-6. Briefly discuss:
-  - How did changing the prompt affect the output?
-  - What does the similarity result tell you about the two texts?
-  - What limitations or errors did you observe in the generated response?
-7. Save the notebook in your course-project GitHub repository and submit the notebook link on Google Classroom.
+Visit Hugging Face and explore the pretrained models available for different AI applications. Identify one pretrained model that is relevant to your field of study, research interests, or ongoing course project.
+
+Make a copy of your existing project notebook and rename it to **Week 7: Exploring Pretrained Models **, and briefly discuss the following:
+- State the name of the pretrained model you selected and provide its link.
+- Explain what the model is designed to do, the type of input it accepts, and the output it produces.
+- Describe how the model could be useful in your discipline or research area.
+- Explain how this pretrained model differs from the machine learning model you have been developing throughout the course.
+- Reflect on whether pretrained models, generative AI or NLP could complement your existing project. If they are not applicable, briefly explain why.
+- Identify any limitations or precautions you would consider before using such a model in a scientific or engineering application.
+
+Optional: If the selected model has an accessible demonstration, try it using a simple example and briefly describe the results.
+
+Submission: Save your updated notebook to GitHub and submit the notebook link through Google Classroom.
+
+Note: You are not required to train, fine-tune, or integrate a pretrained model into your existing project. The purpose of this assignment is to explore available models and evaluate their potential relevance to your work.
