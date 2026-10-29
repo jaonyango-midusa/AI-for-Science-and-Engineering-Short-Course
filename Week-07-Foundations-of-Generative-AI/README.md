@@ -25,7 +25,7 @@ By the end of the lesson, participants should be able to:
 - Discuss limitations and responsible use of generative AI.
 
 ## Week 7 Assignment | Exploring Generative AI and Language Models
-Visit Hugging Face and explore the pretrained models available for different AI applications. Identify one pretrained model that is relevant to your field of study, research interests, or ongoing course project.
+Visit Hugging Face and explore the pretrained models available for different AI applications. Identify one pretrained model that is relevant to your ongoing course project.
 
 Make a copy of your existing project notebook and rename it to **Week 7: Exploring Pretrained Models **, and briefly discuss the following:
 - State the name of the pretrained model you selected and provide its link.
